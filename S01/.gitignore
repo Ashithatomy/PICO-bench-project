@@ -1,0 +1,23 @@
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.lck
+~*.lck
+_autosave-*
+*.bak
+*-bak
+
+# Fabrication outputs (remove these lines if you want Gerbers in the repo)
+gerbers/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows
+Thumbs.db
+desktop.ini
