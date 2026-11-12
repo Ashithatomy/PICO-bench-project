@@ -15,3 +15,5 @@ Measurements, notes and explanations from Pico Bench Quest.
 ## Mission 6: The toggle latch (2026-11-09)
 
 ## Mission 7: Boss: the airlock sequence (2026-11-09)
+
+## PCB Mission 1: Schematic: symbols and wires (2026-11-11)

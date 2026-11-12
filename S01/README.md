@@ -41,6 +41,10 @@ Built on a Raspberry Pi Pico 2 with MicroPython, with a custom PCB designed in K
 - and in conditions
 - Building a program from a plain-English spec
 - Mixing input checks with timing
+- Creating a KiCad project in your repo
+- Placing symbols, power symbols and wires
+- Net labels and no-connect flags
+- Running ERC and fixing power warnings
 
 ## Code
 
@@ -48,7 +52,7 @@ The final program is `main.py`; each mission's version is in `code/`.
 
 ## PCB
 
-- In progress
+- Schematic: symbols and wires
 
 Add your KiCad project, Gerber zip and screenshots to `kicad/` and `fab/`.
 
